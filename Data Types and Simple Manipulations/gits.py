@@ -15,7 +15,7 @@ print(fruits)
 #Create a tuple named 'colors' containing at least four different colors
 colours=("Red","Blue","pink","Black","Purple")
 
-colours[1] = "Green"
+# colours[1] = "Green"
 print("colours")
 
 #Convert the tuple into a list, change the first color to "Silver", and convert it back to a tuple
