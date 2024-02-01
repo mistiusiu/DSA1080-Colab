@@ -1,6 +1,8 @@
 # DSA1080 Spring Semester 2024 Projects
 This repo contains in folders the various group projects collaborated on during the semester. It also is the first repository where team members experimented with the features of git. A brief run thorugh of git features is at the bottom.
 
+![USIU Logo}(https://www.facebook.com/photo/?fbid=560727319434042&set=ecnf.100064903353707&locale=br_FR)
+
 ## Data Types and Simple Manipulations
 This is the code written in Python files that encompasses:
 - Handling lists
