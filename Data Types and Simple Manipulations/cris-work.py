@@ -21,7 +21,7 @@ print(colours)
 #QUESTION 2
 thistuple = ("red","black","pink","purple")
 y = list(thistuple)
-y.append("siver")
+y.append("silver")
 thistuple = tuple(y)
 print(thistuple)
 
@@ -34,11 +34,12 @@ s = fruits[::2]
 print(s)
 
 #QUESTION 4
-fruits = ["apple", "banana", "orange"]
-colors = ("red", "green", "blue")
+fruits = ["apple","mango","avocado","kiwi","pawpaw"]
+colors = ("red","blue","purple","pink")
 
-# Combine the 'fruits' list and the 'colors' tuple into a new list named 'combined'
+# Combine the 'fruits' list and the 'colors' tuple into a new list named 'combined
 combined = fruits + list(colors)
+print(combined)
 
 
 
