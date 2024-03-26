@@ -31,7 +31,9 @@ print(colors)
 
 #list slicing
 fruits_list=[fruit[0],fruit[-1]]
-fruit_slice=[fruit[1:-1:2]]
+fruit.append("jackfruit")
+fruit_slice=fruit[1::2]
+print(fruit)
 print(fruits_list)
 print(fruit_slice)
 

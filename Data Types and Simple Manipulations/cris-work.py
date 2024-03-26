@@ -15,7 +15,11 @@ print(fruits)
 
 colours = ("red","blue","purple","pink")
 
-colours.insert(1,"green")
+try:
+    colours.insert(1,"green")
+except AttributeError as e:
+    print(e)
+
 print(colours)
 
 #QUESTION 2

@@ -14,4 +14,3 @@ fruits1=[fruits[0],fruits[4]]
 fruits=fruits[1::2]
 
 print(fruits1)
-print(fruits2)
